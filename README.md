@@ -25,8 +25,7 @@ A simple drawing pad application built using SDL2. It allows users to draw on a 
   - `6`: Magenta
   - `7`: Yellow
   - `8`: White
-- **X**: Clear the canvas (reset to white).
-- **Escape**: Exit the application.
+- **`X`**: Clear the canvas (reset to white).
 
 ## Requirements
 
