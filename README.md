@@ -11,12 +11,12 @@ A simple drawing pad application built using SDL2. It allows users to draw on a 
 
 ## Controls
 
-- **W, A, S, D**: Move the cursor up, left, down, and right respectively.
-- **Q, E, Z, C**: Diagonal movement (up-left, up-right, down-left, down-right).
-- **Space**: Start drawing.
-- **R**: Increase the brush size.
-- **F**: Decrease the brush size.
-- **1-8**: Select a drawing color.
+- **`W`, `A`, `S`, `D`**: Move the cursor up, left, down, and right respectively.
+- **`Q`, `E`, `Z`, `C`**: Diagonal movement (up-left, up-right, down-left, down-right).
+- **`Space`**: Start drawing.
+- **`R`**: Increase the brush size.
+- **`F`**: Decrease the brush size.
+- **`1`-`8`**: Select a drawing color.
   - `1`: Black
   - `2`: Blue
   - `3`: Green
