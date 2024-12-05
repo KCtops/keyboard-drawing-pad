@@ -38,30 +38,20 @@ A simple drawing pad application built using SDL2. It allows users to draw on a 
 Make sure you have the SDL2 library installed on your system. You can install it using the following commands:
 
 #### On Ubuntu/Debian:
-```bash
-sudo apt-get install libsdl2-dev
-````
+````sudo apt-get install libsdl2-dev````
 #### On macOS (using Homebrew):
-```bash
-brew install sdl2
-````
+````brew install sdl2````
 #### On Windows:
 You can download the SDL2 development libraries from SDL2's official website and follow the installation instructions for Windows.
 
 #### Compilation
 Clone the repository and build the project using gcc or another C compiler:
-
-bash
-Copy code
-git clone https://github.com/KCtops/keyboard-drawing-pad.git
-cd keyboard-drawing-pad
-gcc -o drawing_pad main.c -lSDL2
+````git clone https://github.com/KCtops/keyboard-drawing-pad.git````
+````cd keyboard-drawing-pad````
+````gcc -o drawing_pad main.c -lSDL2````
 Running
 Once compiled, you can run the application using:
-
-bash
-Copy code
-./drawing_pad
+````./drawing_pad````
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
