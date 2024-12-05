@@ -62,20 +62,18 @@ Once compiled, you can run the application using:
 bash
 Copy code
 ./drawing_pad
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-#### Acknowledgements
+## Acknowledgements
 This project uses the SDL2 library for graphics and event handling.
 A big thanks to the SDL2 community for creating and maintaining such an amazing library.
-Contributing
+
+## Contributing
 Feel free to fork this project and submit issues or pull requests. Contributions are always welcome!
 
-vbnet
-Copy code
-
-### Notes:
-1. Replace `YourUsername` with your actual GitHub username.
+## Notes:
+1. Replace `KCtops` with your actual GitHub username.
 2. The instructions for installation and compilation may need to be updated depending on your platform or build setup.
 3. You can modify the README further to fit additional requirements, such as specific dependencies or features added in future versions.
 
