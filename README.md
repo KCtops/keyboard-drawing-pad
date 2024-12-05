@@ -46,6 +46,7 @@ You can download the SDL2 development libraries from SDL2's official website and
 
 #### Compilation
 Clone the repository and build the project using gcc or another C compiler:
+
 ````git clone https://github.com/KCtops/keyboard-drawing-pad.git````
 
 ````cd keyboard-drawing-pad````
@@ -53,6 +54,7 @@ Clone the repository and build the project using gcc or another C compiler:
 ````gcc -o drawing_pad main.c -lSDL2````
 #### Running
 Once compiled, you can run the application using:
+
 ````./drawing_pad````
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
