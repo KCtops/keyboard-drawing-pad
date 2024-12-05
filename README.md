@@ -40,20 +40,20 @@ Make sure you have the SDL2 library installed on your system. You can install it
 #### On Ubuntu/Debian:
 ```bash
 sudo apt-get install libsdl2-dev
-
-On macOS (using Homebrew):
-bash
-Copy code
+````
+#### On macOS (using Homebrew):
+```bash
 brew install sdl2
-On Windows:
+````
+#### On Windows:
 You can download the SDL2 development libraries from SDL2's official website and follow the installation instructions for Windows.
 
-Compilation
+#### Compilation
 Clone the repository and build the project using gcc or another C compiler:
 
 bash
 Copy code
-git clone https://github.com/YourUsername/keyboard-drawing-pad.git
+git clone https://github.com/KCtops/keyboard-drawing-pad.git
 cd keyboard-drawing-pad
 gcc -o drawing_pad main.c -lSDL2
 Running
@@ -65,7 +65,7 @@ Copy code
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+#### Acknowledgements
 This project uses the SDL2 library for graphics and event handling.
 A big thanks to the SDL2 community for creating and maintaining such an amazing library.
 Contributing
